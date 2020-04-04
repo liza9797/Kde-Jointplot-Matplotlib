@@ -2,7 +2,7 @@ import numpy as np
 from matplotlib.colors import ListedColormap, LinearSegmentedColormap
 
 CMAP_FROM_COLORS = {
-    "orange": ["orange","orange" ,"darkorange" ,
+    "orange": ["orange", "orange", "darkorange",
                "saddlebrown", "black"]
 }
 CMAP_FROM_ALPHAS = {
